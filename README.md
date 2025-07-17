@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/koladev32-mcp-discord-chat-badge.jpg)](https://mseep.ai/app/koladev32-mcp-discord-chat)
+
 # mcp-discord-chat MCP server
 
 A MCP server project
